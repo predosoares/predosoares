@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align='right'><iframe src="https://giphy.com/embed/GFtsjaDVJnoNa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/one-piece-GFtsjaDVJnoNa">via GIPHY</a></p>
+<img align='right' src='https://media.giphy.com/media/GFtsjaDVJnoNa/giphy.gif' width='200"'>
 
 - 🔭 I’m currently working on my self
 - 🌱 I’m currently learning NextJS
