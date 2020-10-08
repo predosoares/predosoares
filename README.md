@@ -29,4 +29,9 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Preddo&show_icons=true&theme=graywhite" />
 </p>
 
+<p align="center" >
+ <a href="https://www.linkedin.com/in/pedro-soares-0a075916a/">
+ <img src="https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
 
+</p>
