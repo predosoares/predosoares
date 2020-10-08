@@ -14,7 +14,6 @@
  My name is Pedro and I'm currently working on my skills. I’m learning</br>NextJS and Declarative UI on my own and a bunch of other stuff in the</br>college. I You can reach me through: pedrohenrique5151@gmail.com.</br>Pronouns: He/Him
 </p>
 </br>
-</br>
 
 <!-- Quote -->
 <p align="center" >
@@ -23,7 +22,6 @@
 </br>
 ― Eduardo Galeano
 </p>
-</br>
 </br>
 
 <!-- Github Stats -->
