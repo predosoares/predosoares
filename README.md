@@ -11,7 +11,7 @@
 
 <!-- About me -->
  <p align="center" >
-  My name is Pedro and I'm currently working on my skills. I’m learning</br>NextJS and Declarative UI on my own and a bunch of other stuff in the</br>college. I You can reach me through: pedrohenrique5151@gmail.com.</br>Pronouns: He/Him
+  My name is Pedro and I'm currently working at Globo. I’m learning</br>NextJS and Declarative UI on my own and a bunch of other stuff in the</br>college. I You can reach me through: pedrohenrique5151@gmail.com.</br>Pronouns: He/Him
  </p>
 
 </br>
