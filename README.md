@@ -11,7 +11,7 @@
 
 <!-- About me -->
  <p align="center" >
-  My name is Pedro and I'm currently working at Cariocalabs, a Consumer</br> Experience Design Studio. I’m learning NextJS and Declarative UI</br>on my own and a bunch of other stuff in the college.</br> I You can reach me through: pedrohenrique5151@gmail.com.</br>Pronouns: He/Him
+  You can reach me through: pedrohenrique5151@gmail.com.</br>Pronouns: He/Him
  </p>
 
 </br>
